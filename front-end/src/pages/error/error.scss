@@ -1,0 +1,24 @@
+
+.container {
+    text-align: center;
+    width: 100%;
+    height: 93vh;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../../assets/404 Error Page not Found with people connecting a plug-amico.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 80% 80%;
+    .button {
+    height: 3rem;
+    width: 400px;
+    padding: 20px;
+    margin: 20px;
+  }
+  .errImg{
+    width: 100%;
+     height: 97vh;
+     position: absolute;
+  }
+}
