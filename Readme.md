@@ -11,7 +11,7 @@
 * Material UI
 
 ## Services used:
-* Google cloud services: hosted on
+* Google cloud platform (GCP): hosted on
 
 
 # Getting Started with vite react app
