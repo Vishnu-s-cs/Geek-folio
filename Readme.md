@@ -1,4 +1,4 @@
-# MERN directory management app
+# MERN employee directory management app
 
 [Link to the live application](https://traverze.ml/)
 
