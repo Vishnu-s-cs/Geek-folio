@@ -1,7 +1,7 @@
 import React from "react";
 import Navbar from "./components/navbar/Navbar";
 import { createBrowserRouter, RouterProvider, Outlet } from "react-router-dom";
-import Home from "./pages/Home/Home";
+import Home from "./pages/home/Home";
 import Profile from "./pages/profile/Profile";
 import Error from "./pages/error/Error";
 import './style.scss'
