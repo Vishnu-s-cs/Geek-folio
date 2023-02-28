@@ -22,7 +22,7 @@ app.use((req, res, next) => {
 
 app.use(
     cors({
-      origin: ["http://127.0.0.1:5173","http://127.0.0.1:4173"],
+      origin: ["http://127.0.0.1:5173","http://127.0.0.1:4173","https://www.traverze.ml/","https://traverze.ml/"],
     })
   );
 app.use(morgan("common")); 
